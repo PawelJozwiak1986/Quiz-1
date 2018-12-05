@@ -1,0 +1,25 @@
+{
+  "name": "quiz-1",
+  "version": "1.0.0",
+  "description": "Quiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PawelJozwiak1986/Quiz-1.git"
+  },
+  "author": "Pawel Jozwiak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PawelJozwiak1986/Quiz-1/issues"
+  },
+  "homepage": "https://github.com/PawelJozwiak1986/Quiz-1#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.10.0"
+  }
+}
